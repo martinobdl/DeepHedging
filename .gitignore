@@ -2,6 +2,8 @@
 
 # Created by https://www.gitignore.io/api/macos,linux,django,python,pycharm
 
+*.*.swp
+
 ### Django ###
 *.log
 *.pot
